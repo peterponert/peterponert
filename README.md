@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Peter Ponert</h1>
+<h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate & experienced Full-stack developer in the GTA (Canada).</h3>
 
-<p align="left"> <img src="https://ponert.ca/images/logos/peter1984_Amorphous_wisps_of_shimmering_colour_in_the_shape_of__b329b76c-f3fe-4dfc-9a91-2e24deace37e.png" alt="user" /> MidJourney v4</p>
+<p align="left"> <img src="https://ponert.ca/images/logos/peter1984_Amorphous_wisps_of_shimmering_colour_in_the_shape_of__b329b76c-f3fe-4dfc-9a91-2e24deace37e.png" alt="user" /> MidJourney v4 - Peter</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterponert&label=Profile%20views&color=0e75b6&style=flat" alt="user" /> </p>
