@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">A passionate & experienced Full-stack developer in the GTA (Canada).</h3>
+<h5 align="center">
+DESIGN. DEVELOP. DEPLOY.
+</h5>
+<h5 align="center">
+ I'm an experienced & passionate fullstack developer looking to work with ambitious businesses in the GTA (Canada). I'm keen on state of the art tools and work with a variety of tech architectures.
+<h5 align="center">
+
 
 <p align="left"> <img src="https://ponert.ca/images/logos/peter1984_Amorphous_wisps_of_shimmering_colour_in_the_shape_of__b329b76c-f3fe-4dfc-9a91-2e24deace37e.png" alt="user" /> MidJourney v4 - Peter</p>
 
