@@ -18,13 +18,13 @@ DESIGN. DEVELOP. DEPLOY.
 
 - 🌱 I’m currently learning **CyberSecurity**
 
-- 👯 I’m looking to collaborate on **Mentorship, Networking**
+- 🤝 I’m looking to collaborate on **Mentorship, Networking**
 
 - 🤝 I’m looking for help with **Improving Toolset**
 
 - 👨‍💻 All of my projects are available at [ponert.ca](https://ponert.ca)
 
-- 📝 I regularly write articles on [ponert.ca](https://ponert.ca)
+- 📝 I will be writing articles on [ponert.ca](https://ponert.ca)
 
 - 💬 Ask me about **Any Tech Problem You're Dealing With**
 
