@@ -16,11 +16,9 @@ DESIGN. DEVELOP. DEPLOY.
 
 - 🔭 I’m currently working on **Social Network UI/UX**, **Home Automation**, **IoT**, **AI Prompts** 
 
-- 🌱 I’m currently learning **CyberSecurity**
+- 🌱 I’m currently exploring **CyberSecurity (Current Zero Day Techniques)**
 
 - 🤝 I’m looking to collaborate on **Mentorship, Networking**
-
-- 🤝 I’m looking for help with **Improving Toolset**
 
 - 👨‍💻 All of my projects are available at [ponert.ca](https://ponert.ca)
 
