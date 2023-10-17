@@ -13,7 +13,7 @@ DESIGN. DEVELOP. DEPLOY.
 
 <p align="left"> <a href="https://twitter.com/peterponert" target="blank"><img src="https://img.shields.io/twitter/follow/peterponert?logo=twitter&style=for-the-badge" alt="user" /></a> </p>
 
-- 🔭 I’m currently working on **Social Network UI/UX**, **Home Automation**, **IoT**, **AI Prompts** 
+- 🔭 I’m currently working on **DevSecOps**, **Social Network UI/UX**, **Home Automation**, **IoT**
 
 - 🌱 I’m currently exploring **CyberSecurity (Current Zero Day Techniques)**
 
