@@ -1,13 +1,11 @@
+<p align="left"> <img src="https://ponert.ca/images/logos/peter1984_Amorphous_wisps_of_shimmering_colour_in_the_shape_of__b329b76c-f3fe-4dfc-9a91-2e24deace37e.png" alt="user" /> MidJourney v4 - Peter</p>
+
 <h3 align="center">
 DESIGN. DEVELOP. DEPLOY.
 </h3>
 <h4 align="center">
  I'm an experienced & passionate fullstack developer looking to work with ambitious businesses in the GTA (Canada). I'm keen on state of the art tools and work with a variety of tech architectures.
 </h4>
-
-
-<p align="left"> <img src="https://ponert.ca/images/logos/peter1984_Amorphous_wisps_of_shimmering_colour_in_the_shape_of__b329b76c-f3fe-4dfc-9a91-2e24deace37e.png" alt="user" /> MidJourney v4 - Peter</p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterponert&label=Profile%20views&color=0e75b6&style=flat" alt="user" /> </p>
 
