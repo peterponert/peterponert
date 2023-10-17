@@ -1,4 +1,3 @@
-<h1 align="center">Hi! My name is Peter</h1>
 <h3 align="center">
 DESIGN. DEVELOP. DEPLOY.
 </h3>
