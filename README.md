@@ -36,4 +36,5 @@ DESIGN. DEVELOP. DEPLOY.
 <a href="https://stackoverflow.com/users/kineticfocus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user" height="30" width="40" /></a>
 <a href="https://www.ponert.ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="user" height="30" width="40" /></a>
 </p>
+
 [![LeetCode user peterponert](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fpeterponert&logo=leetcode&logoColor=yellow)](https://leetcode.com/peterponert/)
