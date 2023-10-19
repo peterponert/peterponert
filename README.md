@@ -37,4 +37,6 @@ DESIGN. DEVELOP. DEPLOY.
 <a href="https://www.ponert.ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="user" height="30" width="40" /></a>
 </p>
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={peterponert}" alt="LeetCode Badges"/>
 
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={peterponert})
